@@ -72,7 +72,7 @@ Here are the projects that combine my business and technical skills:
 
 ---
 
-### 🛒 Project Name 3:Customer Segmentation Engine
+### 🛒 Project Name 3: Customer Segmentation Engine
 **Problem:** Marketing teams waste budget on generic campaigns.  
 **Solution:** Created RFM + clustering model to segment customers by value and behavior.  
 **Impact:** Marketing ROI increased 30% with targeted campaigns.  
@@ -80,11 +80,11 @@ Here are the projects that combine my business and technical skills:
 
 ---
 
-### 🏷️ [Project Name 4: e.g., Price Optimization Tool]
+### 🏷️ Project Name 4: Price Optimization Tool
 **Problem:** Pricing decisions are made based on intuition rather than data.  
 **Solution:** Built a price elasticity model combined with competitor data to recommend optimal pricing.  
 **Impact:** Gross margin improved by 5% within 3 months.  
-🔗 [Link to repository]
+🔗 https://github.com/Michaeldw012/Price-Optimization-Tool
 
 ---
 
