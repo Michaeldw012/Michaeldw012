@@ -109,9 +109,9 @@ Building a RAG-powered chatbot that answers retail business questions from sales
 
 | Degree | Institution | Specialization |
 |--------|-------------|----------------|
-| **MBA** | [Your University] | General Management |
-| **MSc Data Science** | [Your University] | Artificial Intelligence |
-| **Certifications** | [Optional: e.g., AWS, Google Analytics, etc.] | |
+| **MBA** | University of St Mark and St John | General Management |
+| **MSc Data Science** | Woolf University | Artificial Intelligence |
+| **Certifications** | AWS Certified AI Practitioner | |
 
 ---
 
