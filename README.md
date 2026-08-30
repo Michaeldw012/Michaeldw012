@@ -64,11 +64,11 @@ Here are the projects that combine my business and technical skills:
 
 ---
 
-### 🎨 [Project Name 2: e.g., Product Design Recommender]
+### 🎨 Project Name 2: e.g., Product Design Recommender]
 **Problem:** Design teams need data to understand which product features drive sales.  
 **Solution:** Built a recommendation system that analyzes product attributes and customer reviews to suggest high-performing designs.  
 **Impact:** Helped design team increase new product success rate by 25%.  
-🔗 [Link to repository]
+🔗 https://github.com/Michaeldw012/Product-Design-Recommendation
 
 ---
 
