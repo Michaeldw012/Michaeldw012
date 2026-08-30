@@ -88,11 +88,11 @@ Here are the projects that combine my business and technical skills:
 
 ---
 
-### 🖥️ [Project Name 5: e.g., Interactive Retail Dashboard]
+### 🖥️ Project Name 5: Interactive Retail Dashboard
 **Problem:** Stakeholders need to see insights but can't interpret raw data.  
 **Solution:** Designed an interactive Power BI/Streamlit dashboard with KPIs, trends, and anomaly detection.  
 **Impact:** Saved 10+ hours/week of reporting time for the analytics team.  
-🔗 [Link to repository]
+🔗 https://github.com/Michaeldw012/Retail-Dashboard
 
 ---
 
