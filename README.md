@@ -60,7 +60,7 @@ Here are the projects that combine my business and technical skills:
 **Problem:** Retail teams struggle with inventory planning during seasonal peaks.  
 **Solution:** Built a time-series forecasting model using Prophet and LSTM to predict weekly sales.  
 **Impact:** Reduced stockouts by 15% and overstock by 10% across 50 stores.  
-🔗 [Link to repository]
+🔗 https://github.com/Michaeldw012/Retail-Forecaster
 
 ---
 
