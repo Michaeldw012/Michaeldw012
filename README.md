@@ -15,33 +15,39 @@ I'm a data scientist with an **MBA in General Management** and an **MSc in Data 
 - 📫 **Connect with me:** (https://www.linkedin.com/in/michael-de-wet-ab15301a0/) | [michaeldw012@gmail.com]
 
 ---
+## 🛠️ Tech Stack
+
+### Languages & Core
+```
 Python          ██████████████████░░  85%
 SQL             ████████████████░░░░  80%
 R               ██████████░░░░░░░░░░  60%
-
+```
 
 ### Data Science & AI
-Machine Learning ██████████████████░░ 85%
-Deep Learning ████████████████░░░░ 75%
-NLP ████████████████░░░░ 75%
-Computer Vision ████████████░░░░░░░░ 65%
-Time-Series ██████████████░░░░░░ 70%
-
+```
+Machine Learning ██████████████████░░  85%
+Deep Learning    ████████████████░░░░  75%
+NLP              ████████████████░░░░  75%
+Computer Vision  ████████████░░░░░░░░  65%
+Time-Series      ██████████████░░░░░░  70%
+```
 
 ### Libraries & Tools
-
-Pandas/NumPy ████████████████████ 90%
-Scikit-learn ██████████████████░░ 85%
-TensorFlow/PyTorch ████████████░░░░░░ 70%
-Power BI/Tableau ████████████████░░░░ 75%
-
+```
+Pandas/NumPy     ████████████████████  90%
+Scikit-learn     ██████████████████░░  85%
+TensorFlow/PyTorch ████████████░░░░░░  70%
+Power BI/Tableau ████████████████░░░░  75%
+```
 
 ### Business & Design
-
-Retail Analytics ██████████████████░░ 85%
-Dashboard Design ██████████████████░░ 85%
-A/B Testing ████████████████░░░░ 75%
-Supply Chain ████████████████░░░░ 75%
+```
+Retail Analytics ██████████████████░░  85%
+Dashboard Design ██████████████████░░  85%
+A/B Testing      ████████████████░░░░  75%
+Supply Chain     ████████████████░░░░  75%
+```
 
 
 ---
