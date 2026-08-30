@@ -56,7 +56,7 @@ Supply Chain     ████████████████░░░░  7
 
 Here are the projects that combine my business and technical skills:
 
-### 📊 [Project Name 1: e.g., Retail Sales Forecaster]
+### 📊 Project Name 1: Retail Sales Forecaster
 **Problem:** Retail teams struggle with inventory planning during seasonal peaks.  
 **Solution:** Built a time-series forecasting model using Prophet and LSTM to predict weekly sales.  
 **Impact:** Reduced stockouts by 15% and overstock by 10% across 50 stores.  
@@ -64,7 +64,7 @@ Here are the projects that combine my business and technical skills:
 
 ---
 
-### 🎨 Project Name 2: e.g., Product Design Recommender]
+### 🎨 Project Name 2: Product Design Recommender
 **Problem:** Design teams need data to understand which product features drive sales.  
 **Solution:** Built a recommendation system that analyzes product attributes and customer reviews to suggest high-performing designs.  
 **Impact:** Helped design team increase new product success rate by 25%.  
@@ -72,11 +72,11 @@ Here are the projects that combine my business and technical skills:
 
 ---
 
-### 🛒 [Project Name 3: e.g., Customer Segmentation]
+### 🛒 Project Name 3:Customer Segmentation Engine
 **Problem:** Marketing teams waste budget on generic campaigns.  
 **Solution:** Created RFM + clustering model to segment customers by value and behavior.  
 **Impact:** Marketing ROI increased 30% with targeted campaigns.  
-🔗 [Link to repository]
+🔗 https://github.com/Michaeldw012/Customer-Segmentation-Engine
 
 ---
 
